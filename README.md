@@ -15,3 +15,7 @@ A mercurial extension that pull large file from nexus server, uncompress and mov
     - password when uncompress(emm.. security is always a tricky part)
    
 TBC
+
+- How to diff?
+- How to cache?
+- How to know if to override the files if destinition already have the files, maybe add a configuration on never override / always override?
